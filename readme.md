@@ -1,10 +1,10 @@
-#Handlebars+JSON to HTML live compiler with BrowserSync
+# Handlebars+JSON to HTML live compiler with BrowserSync
 
-##Setup
+## Setup
 `npm install`
 
-##Watch with BrowserSync
+## Watch with BrowserSync
 `gulp watch-bs`
 
-##Compile to ./dist
+## Compile to ./dist
 `gulp`
